@@ -22,6 +22,8 @@
 
 - [Features](#id01)
 - [Tecnologias](#id02)
+- [Aplicação](#id03)
+- [Autor](#id04)
 
 ---
 
@@ -38,6 +40,17 @@
 ---
 
 <!-- Demonstração da aplicação -->
+<h3>Aplicação<a name="id03"></a></h3>
+
+<h4>Pagina inicial do jogo<h4>
+  
+<img alt="MataMosquito" title="#MataMosquito" src="./imagens/readme-mata-mosquito.PNG" />
+  
+<h4>Pagina game over do jogo<h4>
+  
+<img alt="MataMosquito" title="#MataMosquito" src="./imagens/readme-game-over.PNG" />
+
+---
 
 <!-- Tecnologias utilizadas -->
 <h3>Tecnologias <a name="id02"></a></h3>
@@ -53,7 +66,17 @@ Ferramentas usadas para automatização de padrões e mensagens de commit do git
 - [Commitlint](https://github.com/conventional-changelog/commitlint#config)
 - [Commitzen](https://github.com/leoforfree/cz-customizable)
 
+---
 
 <!-- Contribuição -->
 <!-- Autor -->
+<h3>Autor <a name="id04"></a></h3>
+<a href="https://www.linkedin.com/in/freitasluziane/">
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFaEiShCu-eRA/profile-displayphoto-shrink_400_400/0/1573643682843?e=1615420800&v=beta&t=gQqV-Cv1KRqvuBw95px12swxY5j6qJdOjGIUzuV2dvQ" width="100px;" alt=""/>
+ <br />
+ <sub><b>Luziane Freitas</b></sub>
+</a> 
+<a href="https://www.linkedin.com/in/freitasluziane/" title="LuzianeFreitas">🚀</a>
+
+Feito com ❤️ por Luziane Freitas 👋🏽 Entre em contato!
 <!-- Licença -->
