@@ -29,8 +29,8 @@
 <h3>Features <a name="id01"></a><h3>
 
 - [x] Cenário do jogo
-- [ ] Controle de vidas
-- [ ] Game Over
+- [x] Controle de vidas
+- [x] Game Over
 - [ ] Adicionando Tempo
 - [ ] Vitória
 - [ ] Níveis de dificuldade
