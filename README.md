@@ -28,7 +28,7 @@
 <!-- Features -->
 <h3>Features <a name="id01"></a><h3>
 
-- [ ] Cenário do jogo
+- [x] Cenário do jogo
 - [ ] Controle de vidas
 - [ ] Game Over
 - [ ] Adicionando Tempo
