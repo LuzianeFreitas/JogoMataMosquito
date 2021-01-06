@@ -25,11 +25,9 @@ function posicaoRandomica() {
     mosquito.style.left = posicaoX + 'px'
     mosquito.style.top = posicaoY + 'px'
     mosquito.style.position = 'absolute'
-
+    mosquito.id = 'mosquito'
     document.body.appendChild(mosquito)
 }
-
-posicaoRandomica()
 
 // Gera tamenhos aleatorios para o mosquito
 function tamanhoAleatorio() {
@@ -56,3 +54,7 @@ function ladoAleatorio() {
             return 'ladoB'
     }
 }
+
+setInterval(function() {
+    posicaoRandomica()
+}, 1000)
