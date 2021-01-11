@@ -47,13 +47,40 @@ body {
     transform: scaleX(-1);
 }
 
-/* Pagina Game over */
+/* Pagina Game over vitoria index*/
 .container {
     display: flex;
     flex-wrap: nowrap;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+
+}
+
+.buttons select {
+    margin-bottom: 7px;
+
+    background: none;
+    border: 0;
+    border: 1px solid white;
+    border-radius: 5px;
+
+    width: 200px;
+    height: 30px;
+    
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.buttons select:hover {
+    background-color: white;
+    opacity: 0.7;
+    color: black;
+    cursor: pointer;
+}
+
+.buttons select:focus {
+    outline: 0;
 }
 
 .buttons button {

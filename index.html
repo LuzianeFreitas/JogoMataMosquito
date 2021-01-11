@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Mata Mosquito - Pagina inicial</title>
+        <link rel="stylesheet" href="style.css">
+        <script defer>
+            function iniciarJogo() {
+                var nivel = document.getElementById('nivel').value
+
+                if (nivel != '') {
+                    alert(document.getElementById('nivel').value)
+                } else {
+                    alert('Selecione um nível para iniciar o jogo')
+                    return false
+                }
+                
+            }
+        </script>
+    </head>
+    <body>
+            <div class="container">
+                <div class="imagem-format">
+                    <img src="imagens/game.png" alt="Game-Over">
+                </div>
+
+                <div class="buttons">
+                    <!-- <div class="dificuldade"> -->
+                        <select id="nivel">
+                            <option value="">-- Selecione o nível --</option>
+                            <option value="normal">Normal</option>
+                            <option value="dificil">Difícil</option>
+                            <option value="chucknorris">Chuck Norris</option>
+                        </select>
+                    <!-- </div> -->
+
+                    <button onclick="iniciarJogo()" >Iniciar</button>
+                </div>
+              
+            </div>    
+        
+    </body>
+</html>
