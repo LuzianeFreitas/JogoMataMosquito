@@ -33,9 +33,9 @@
 - [x] Cenário do jogo
 - [x] Controle de vidas
 - [x] Game Over
-- [X] Adicionando Tempo
-- [X] Vitória
-- [ ] Níveis de dificuldade
+- [x] Adicionando Tempo
+- [x] Vitória
+- [x] Níveis de dificuldade
 
 ---
 
@@ -44,7 +44,7 @@
 
 <h4>Pagina inicial do jogo<h4>
   
-<img alt="MataMosquito" title="#MataMosquito" src="./imagens/readme-mata-mosquito.PNG" />
+<img alt="MataMosquito" title="#MataMosquito" src="./imagens/readme-index.PNG" />
   
 <h4>Pagina game over do jogo<h4>
   
