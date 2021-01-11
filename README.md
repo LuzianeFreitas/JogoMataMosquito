@@ -14,7 +14,7 @@
 <br/>
 
 <!-- Status do projeto -->
-<h2 align="center"><img width="30" src="https://emojis.slackmojis.com/emojis/images/1450319442/16/construction.gif?1450319442" alt="Construction"> Em construção...  <img width="30" src="https://emojis.slackmojis.com/emojis/images/1450319442/16/construction.gif?1450319442" alt="Construction"></h2> 
+<h2 align="center">Finalizado</h2> 
 
 <!-- Tabela de conteúdos -->
 
