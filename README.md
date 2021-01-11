@@ -33,8 +33,8 @@
 - [x] Cenário do jogo
 - [x] Controle de vidas
 - [x] Game Over
-- [ ] Adicionando Tempo
-- [ ] Vitória
+- [X] Adicionando Tempo
+- [X] Vitória
 - [ ] Níveis de dificuldade
 
 ---
