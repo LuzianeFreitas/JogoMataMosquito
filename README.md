@@ -48,7 +48,11 @@
   
 <h4>Pagina game over do jogo<h4>
   
-<img alt="MataMosquito" title="#MataMosquito" src="./imagens/readme-game-over.PNG" />
+<img alt="MataMosquito" title="#Game-Over" src="./imagens/readme-game-over.PNG" />
+
+<h4>Pagina vitória do jogo<h4>
+  
+<img alt="MataMosquito" title="#Vitoria" src="./imagens/readme-vitoria.PNG" />
 
 ---
 
