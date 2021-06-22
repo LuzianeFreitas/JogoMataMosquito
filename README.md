@@ -76,7 +76,7 @@ Ferramentas usadas para automatização de padrões e mensagens de commit do git
 <!-- Autor -->
 <h3>Autor <a name="id04"></a></h3>
 <a href="https://www.linkedin.com/in/freitasluziane/">
- <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFaEiShCu-eRA/profile-displayphoto-shrink_400_400/0/1573643682843?e=1615420800&v=beta&t=gQqV-Cv1KRqvuBw95px12swxY5j6qJdOjGIUzuV2dvQ" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQF8tY18Kv9LQg/profile-displayphoto-shrink_200_200/0/1619142085592?e=1629936000&v=beta&t=0Xv0pX3Blu72Kfi9S1kUUboN-1F5GBLdCMpIfHBBq78" width="100px;" alt=""/>
  <br />
  <sub><b>Luziane Freitas</b></sub>
 </a> 
